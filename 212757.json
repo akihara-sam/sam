@@ -1457,6 +1457,33 @@
         }
       ]
     },
+     {
+      "group": "三木日本",
+      "channels": [
+        {
+          "name": "NHK G 东京",
+          "urls": [
+            "vjms://122.155.180.8:8500:3502/live/cid=309",
+            "https://nhk.mov3.co/hls/nhk.m3u8",
+            "vjms://122.155.180.8:8500:5021/live/cid=317",
+            "http://pili-live-hdl.qhmywl.com:80/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.m3u8"
+          ]
+        },
+        {
+          "name": "NHK G 大版",
+          "urls": [
+            "vjms://122.155.180.8:8500:3502/live/cid=317"  
+          ]
+         },
+          {
+          "name": "テレビ東京",
+          "urls": [
+            "vjms://122.155.180.8:8500:3502/live/cid=315"
+            
+          ]
+         }
+       ]
+      },      
     {
       "group": "NewTV",
       "channels": [
